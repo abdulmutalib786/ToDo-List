@@ -3,7 +3,9 @@
 Author: Abdul Mutalib Mulla
 
 This is a simple ToDo-List project
+<br>
 This project is biult usign HTML, CSS, JavaScript.
+<br>
 Steps to run this project
 
 1. Download project folder
